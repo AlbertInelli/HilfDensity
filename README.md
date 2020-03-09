@@ -8,3 +8,5 @@ Before completing the test in the table you will have to enter the percent water
 Once you have performed the test according to the Australian Standard, enter the weight of the mass of mould and soil and the program will automatically find the values, mass of soil only, wet density and converted wet density.
 
 A valid test is minimum 3 points(Columns) at different water percentages to find optimum moisture content.
+
+Note: This is a netbeans project and is best to open in netbeans.
