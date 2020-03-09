@@ -104,6 +104,7 @@ public class HilfWorksheet {
         mainFrame.setVisible(true);
         mainFrame.setSize(500,500);
         mainFrame.setDefaultCloseOperation(JFrame.EXIT_ON_CLOSE);
+        mainFrame.setResizable(false);
         mainPanel.setLayout(new BoxLayout(mainPanel, BoxLayout.Y_AXIS));
         mainFrame.add(mainPanel);//the main panel is a box layout, holds the gridbaglayout, flow layout and jtable descending down, so when a new layout is added it will be underneath the previous one
         
